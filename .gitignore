@@ -3,6 +3,7 @@ __pycache__/
 *.py[codz]
 *$py.class
 Data/
+00_experimentation_debugging.ipynb
 
 # C extensions
 *.so
